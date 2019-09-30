@@ -3,7 +3,8 @@ const CONFIG = {
     base_url: 'https://mdvrdrtest.com.global.prod.fastly.net',
     redirects: {
         '/articles/23' : '/articles/1',
-        '/foo' : '/bar',
+        '/articles/44' : '/articles/2',
+        '/foo' : '/articles/1',
         '/feeds/msn/articles': '/feed/msn/articulos',
         '/feeds/msn/galleries': '/feed/msn/galerias',
     },
