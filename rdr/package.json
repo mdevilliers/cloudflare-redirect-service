@@ -10,7 +10,7 @@
     "author": "Mark deVilliers <markdevilliers@gmail.com>",
     "license": "ISC",
     "devDependencies": {
-        "husky": "^2.1.0",
+        "husky": "^2.7.0",
         "prettier": "^1.17.0"
     },
     "husky": {
@@ -20,6 +20,7 @@
         }
     },
     "dependencies": {
-        "serverless-cloudflare-workers": "^1.2.0"
+        "serverless-cloudflare-workers": "^1.2.0",
+        "set-value": "^2.0.1"
     }
 }
